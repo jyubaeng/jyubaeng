@@ -24,7 +24,7 @@ I act as a subject matter expert and go-to person to provide insights and soluti
 I'm always eager to collaborate on exciting projects and share knowledge with fellow enthusiasts. Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/jubyung-ha-cpa/).
 
 <a href="https://www.linkedin.com/in/jubyung-ha-cpa/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="200" height="100">
 </a>
 
 
