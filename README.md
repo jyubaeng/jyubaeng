@@ -27,41 +27,44 @@ I'm always eager to collaborate on exciting projects and share knowledge with fe
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="200" height="100">
 </a>
 
+# Educational Background:
 
-### Educational Background:
-
-Graduate, Data Science  
+**Graduate, Data Science**  
 Bellevue University
 
-Graduate Certificate, Business Analytics  
+**Graduate Certificate, Business Analytics**  
 Seton Hall University
 
-Bachelor's Degree, Accounting and Business/Management  
+**Bachelor's Degree, Accounting and Business/Management**  
 George Mason University
 
+# Professional Background:
 
+**Data Science & Machine Learning:** I have a deep passion for leveraging data to drive decision-making and innovation. My experience includes developing and deploying predictive models, conducting complex data analyses, and creating automated data pipelines.
 
+**Robotic Process Automation (RPA):** As an RPA specialist, I design and implement automated solutions to streamline business processes, increase efficiency, and reduce operational costs. My work in this field has transformed traditional workflows in finance and accounting, enabling more accurate and timely financial reporting.
 
+**Public Finance & Accounting:** With a CPA license and extensive experience in public finance, I have a solid understanding of financial regulations, auditing, and compliance. My background allows me to bridge the gap between finance and technology, ensuring that automated solutions meet rigorous industry standards.
 
+**Data Engineering:** I build and maintain robust big data ecosystems, ensuring efficient data flow and accessibility. My work involves designing and implementing data warehouses, creating ETL processes, and optimizing data storage solutions to support advanced analytics and machine learning applications.
 
-### Professional Background
+**Cloud Computing:** Leveraging cloud platforms such as Google Cloud, I design scalable and resilient cloud-based architectures. My expertise includes deploying big data solutions, managing cloud infrastructure, and ensuring data security and compliance in cloud environments.
 
-Data Science & Machine Learning: I have a deep passion for leveraging data to drive decision-making and innovation. My experience includes developing and deploying predictive models, conducting complex data analyses, and creating automated data pipelines.
+# Skills and Expertise:
 
-Robotic Process Automation (RPA): As an RPA specialist, I design and implement automated solutions to streamline business processes, increase efficiency, and reduce operational costs. My work in this field has transformed traditional workflows in finance and accounting, enabling more accurate and timely financial reporting.
+- Programming Languages: Python, R, SQL, NoSQL
+- Machine Learning & AI: Predictive Modeling, Time Series Analysis, Natural Language Processing
+- RPA Tools: UiPath, Blue Prism, Automation Anywhere
+- Data Visualization: Tableau, Power BI, Matplotlib, Ggplot
+- Data Engineering: ETL processes, Data Warehousing, Big Data Ecosystems
+- Cloud Platforms: Google Cloud
+- Financial Systems: ERP systems (SAP, PeopleSoft), Financial Reporting Tools 
+- Certifications: Certified Public Accountant (CPA)
 
-Public Finance & Accounting: With a CPA license and extensive experience in public finance, I have a solid understanding of financial regulations, auditing, and compliance. My background allows me to bridge the gap between finance and technology, ensuring that automated solutions meet rigorous industry standards.
+# Projects and Contributions: 
 
+On my GitHub, you'll find a collection of projects that showcase my skills and interests. From developing AI models to predict stock prices to creating automated workflows for financial reporting, my repositories reflect my commitment to continuous learning and innovation.
 
-I skilled in SQL, NoSQL, R, and Python with domain knowledge in General Ledger Accounting, Fixed Asset Accounting, Revenue Accounting, Financial Reporting & Analysis, Sales & Use Tax, Income Tax, Budget & Forecast.
-
-Specialized in automating Accounting Procedures and Financial Reporting & Analysis using:  
-
-* Robotics Process Automation
-* Data Engineering
-* Data Visualization
-* Data Mining 
-* Predictive Analysis 
-* Accounting Model Development
-
-Strong finance professional with a Master of Business Administration - MBA focused in Information Technology from Seton Hall University.
+Project 1: Description of the project, key technologies used, and its impact.
+Project 2: Description of the project, key technologies used, and its impact.
+Project 3: Description of the project, key technologies used, and its impact.
