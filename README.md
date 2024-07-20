@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **About Me:**  
+# About Me:  
 
 Hello! I'm an experienced Data Scientist and Robotic Process Automation (RPA) Specialist with a strong background in public finance and accounting. With a demonstrated history of working in the information technology and finance/accounting industries, I bring a unique blend of technical expertise and financial acumen to my projects.
 
 I act as a subject matter expert and go-to person to provide insights and solutions on technical issues, offer recommendations for the best solutions on business issues, and excel in business modeling and problem-solving. My ability to blend analytical thinking with practical business applications makes me a valuable asset in any project, ensuring that technology and business needs are seamlessly integrated.
 
-# **Let's Connect:** 
+# Let's Connect:
 
 I'm always eager to collaborate on exciting projects and share knowledge with fellow enthusiasts. Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/jubyung-ha-cpa/).
 
