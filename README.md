@@ -73,5 +73,5 @@ On my GitHub, you'll find a collection of projects that showcase my skills and i
 - [Data Engineering on GCP:](https://github.com/jyubaeng/data-engineering-gcp) Study materials and codes for data engineering on Google Cloud.
 - [Pandas Cookbook:](https://github.com/jyubaeng/pandas-cookbook) Study materials and projects using Python Pandas.
 - [Boston Housing:](https://github.com/jyubaeng/boston-housing) Predictive analysis for predicting Boston housing prices.
-- Place holder
+- [Revenue Prediction](https://github.com/jyubaeng/revenue-prediction) Time series analysis for predicting revenue.
 - Place holder
