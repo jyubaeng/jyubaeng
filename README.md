@@ -69,9 +69,9 @@ On my GitHub, you'll find a collection of projects that showcase my skills and i
 - [Real-Time Email Processing:](https://github.com/jyubaeng/real-time-email-processing) Using Kafka and Spark for real-time email processing.
 - [Machine Learning with Apache Spark:](https://github.com/jyubaeng/machine-learning-with-apache-spark) Study materials and code for Spark ML.
 - [Hands-On Machine Learning:](https://github.com/jyubaeng/hands-on-machine-learning) Study materials and codes for various ML concepts.
-- [US Median Housing:](https://github.com/jyubaeng/us-median-housing) Predicting US median housing prices by state.
+- [US Median Housing:](https://github.com/jyubaeng/us-median-housing) Predicting US median housing prices by state using macro features such as inflation, interest, etc.
 - [Data Engineering on GCP:](https://github.com/jyubaeng/data-engineering-gcp) Study materials and codes for data engineering on Google Cloud.
 - [Pandas Cookbook:](https://github.com/jyubaeng/pandas-cookbook) Study materials and projects using Python Pandas.
 - [Boston Housing:](https://github.com/jyubaeng/boston-housing) Predictive analysis for predicting Boston housing prices.
 - [Revenue Prediction](https://github.com/jyubaeng/revenue-prediction) Time series analysis for predicting revenue.
-- Place holder
+- [Boston Housing Price](https://github.com/jyubaeng/boston-housing-price) Predicting housing price using micro features such as size, room, etc.
